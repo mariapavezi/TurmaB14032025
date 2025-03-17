@@ -1,0 +1,29 @@
+td,th{
+    border: 1px solid #000; 
+    background-color: grey;
+    border-radius: 5px;/*en;*/
+    padding: 10px;
+    text-align: center;
+}
+
+.tabela{
+    /*border-collapse: collapse;*/
+    width: 100%;
+}
+
+th{
+    background-color: #000;
+    color: aliceblue;
+}
+.relatorio{
+    padding: 10px;
+}
+.topo{
+    padding: 10px;
+}
+
+tr:hover{
+    td{
+    background-color: bisque;
+}
+}
